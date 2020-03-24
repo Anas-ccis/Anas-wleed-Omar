@@ -1,2 +1,3 @@
-#tihs is my project
-this test
+# cs310 project
+## course
+testing
